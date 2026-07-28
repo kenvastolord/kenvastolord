@@ -8,7 +8,7 @@
 💡 Current Focus: Deepening my knowledge in Java, Spring Boot, and enterprise backend architectures.
 
 🛠️ Core Experience: PHP/Laravel, Node.js, SQL, REST APIs, Docker, and Linux environments.
-</div>
+
 
 <p align="center">
 
@@ -104,3 +104,4 @@
     </picture>
   </a>
 </p>
+</div>
